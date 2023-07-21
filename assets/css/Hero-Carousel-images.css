@@ -1,0 +1,14 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+h1 {
+}
+
+.btn {
+  --bs-primary: #01182e;
+  --bs-primary-rgb: 1,24,46;
+  --bs-body-color: #01182e;
+  --bs-body-bg: #01182e;
+}
+
