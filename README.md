@@ -1,6 +1,6 @@
 # zv1
 
-Diseño funcional de las paginas de inicio para el proyecto Zippy
+Diseño funcional de las paginas de inicio para el proyecto Zippy.
 Ver pagina en vivo: https://jjohanjv.github.io/zv1/
 
 En este se plantea la paleta de colores y identidad que tendrá todo el frontend del proyecto.
