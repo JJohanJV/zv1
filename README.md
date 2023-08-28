@@ -8,6 +8,8 @@ Compuesto por la pagina de inicio, pagina de login/registro y pagina de reservar
 
 Las paginas fueron diseñadas desde cero. Se usó en una parte la herramienta de Bootstrap Studio y en otras se codificó directamente el html y css.
 
+La maquetación de la app se puede ver aquí: https://excalidraw.com/#room=9edba276469bfbbba4b5,e5ieeBgyfaLNsFoWodDraw
+
 ## ¿Qué es "Zippy"?
 
 ### Misión
